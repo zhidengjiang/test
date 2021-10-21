@@ -1,2 +1,2 @@
-学习如何使用git
-
+﻿学习如何使用git
+Creating a new branch is quick AND simple.
